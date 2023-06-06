@@ -1,0 +1,489 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.439549,24.421946 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Abu Dhabi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.7237601,8.9864612 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Addis Ababa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.77721,38.008245 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Athens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.830642,40.3674106 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Baku"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.5763329,13.7369955 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Bangkok"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4565208,39.946174 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Beijing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4604254,46.940536 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Bern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.3002019,52.4609869 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Berlin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -47.8932027,-15.8226228 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Brasília"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.0901845,44.4499734 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Bucharest"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.0942315,47.5093611 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Budapest"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3782025,50.8125819 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Brussels"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.1054513,-35.3541828 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Canberra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.5753899,55.7214575 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Copenhagen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.5314016,25.3309136 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Doha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.1910668,53.2996041 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Dublin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6611474,50.140406 ]
+    },
+    "properties": {
+    "type":"Consulate",
+    "city":"Frankfurt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9936907,53.5979809 ]
+    },
+    "properties": {
+    "type":"Consulate",
+    "city":"Hamburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.2879243,52.1015638 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"The Hague"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.836635,21.0317426 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Hanoi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.0048897,60.1840399 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Helsinki"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1790676,22.2800396 ]
+    },
+    "properties": {
+    "type":"Consulate",
+    "city":"Hong Kong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8277782,-6.2005543 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Jakarta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.7315383,3.1552033 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Kuala Lumpur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.525256,50.4436371 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Kiev"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.2228757,38.7011226 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Lisbon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1723786,51.5016418 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0259304,14.546897 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Manila"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6487849,55.7553739 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Moscow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.2280529,28.6271163 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"New Delhi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.700251,59.9159384 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Oslo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6918015,45.4166639 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Ottawa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2928364,48.8632873 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.2261792,-25.7727021 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Pretoria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1991574,15.3152335 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Sanaa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1918688,59.3703264 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Stockholm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.7312532,35.6480461 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Tokyo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3841199,48.1970305 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Vienna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.0559075,52.2343708 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Warsaw"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.8020886,-41.2982084 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Wellington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.5178198,40.2049677 ]
+    },
+    "properties": {
+    "type":"Embassy",
+    "city":"Yeravan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0503197,38.9063617 ]
+    },
+    "properties": {
+    "type":"Interest Section of Iran/Foreign Consulate",
+    "city":"Washington D.C"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1328319,46.2227052 ]
+    },
+    "properties": {
+    "type":"Permanent Mission of Iran to the U.N.",
+    "city":"Geneva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9756298,40.7497244 ]
+    },
+    "properties": {
+    "type":"Permanent Mission of Iran to the U.N.",
+    "city":"New York City"
+    }
+  }
+]
+}
